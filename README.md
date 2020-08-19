@@ -2,7 +2,7 @@
 
 ## Problema 10
 
-Clase para números complejos.
+Clase para números complejos. Todo en un único archivo, les debo la separación en headers y eso.
 
 ```
 gtheler@tom:~/phd/c++/c++1-10$ make
